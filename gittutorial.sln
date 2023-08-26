@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34004.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gittutorial", "gittutorial.csproj", "{FFD231FD-8E80-4252-9A88-73A7E6ED6E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD231FD-8E80-4252-9A88-73A7E6ED6E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD231FD-8E80-4252-9A88-73A7E6ED6E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD231FD-8E80-4252-9A88-73A7E6ED6E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD231FD-8E80-4252-9A88-73A7E6ED6E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3C8BBAD-DAA9-4FB8-80FA-CBBB8E00929A}
+	EndGlobalSection
+EndGlobal
